@@ -1,7 +1,7 @@
 {
 	"name": "typedoc-canvo-theme",
 	"description": "Canvo theme for TypeDoc.",
-	"version": "0.2.6",
+	"version": "0.2.7",
 	"homepage": "https://canvo.js.org/",
 	"main": "bin/plugin.js",
 	"files": [
