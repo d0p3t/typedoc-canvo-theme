@@ -1,17 +1,9 @@
-# Default themes for TypeDoc
+# Canvo themes for TypeDoc
 
-This module contains the default themes of TypeDoc.
+This module contains Canvo's typedoc theme.
 Visit http://typedoc.org/ to learn more about TypeDoc.
-
-
-## Contributing
-
-Contributions are welcome and appreciated. You can find TypeDoc on GitHub, feel free to start
-an issue or create a pull requests:<br>
-[https://github.com/TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
-
 
 ## License
 
-Copyright (c) 2015 [Sebastian Lenz](http://www.sebastian-lenz.de).<br>
+Copyright (c) 2019 [Landon Gravat](https://railrunner16.me).<br>
 Licensed under the Apache License 2.0.

@@ -1,7 +1,7 @@
 {
 	"name": "typedoc-canvo-theme",
 	"description": "Canvo theme for TypeDoc.",
-	"version": "0.2.2",
+	"version": "0.2.4",
 	"homepage": "https://canvo.js.org/",
 	"main": "bin/plugin.js",
 	"files": [
@@ -20,10 +20,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/railrunner16/typedoc-canvo-theme.git"
+		"url": "git://github.com/canvojs/typedoc-canvo-theme.git"
 	},
 	"bugs": {
-		"url": "https://github.com/railrunner166/typedoc-canvo-theme/issues"
+		"url": "https://github.com/canvojs/typedoc-canvo-theme/issues"
 	},
 	"license": "Apache-2.0",
 	"engines": {
