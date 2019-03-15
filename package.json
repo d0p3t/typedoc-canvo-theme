@@ -1,6 +1,6 @@
 {
-  "name": "typedoc-canvo-theme",
-  "description": "Canvo theme for TypeDoc.",
+  "name": "typedoc-fivemjs-theme",
+  "description": "FiveM-js theme for TypeDoc.",
   "version": "0.2.7",
   "homepage": "https://d0p3t.nl/",
   "main": "bin/plugin.js",
